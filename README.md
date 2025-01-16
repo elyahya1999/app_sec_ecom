@@ -57,7 +57,9 @@ Le projet comprend plusieurs services indépendants qui communiquent via des API
 - **Commandes importantes :**
   - `ng serve` : Démarre l'application Angular en mode développement.
   - `ng build` : Génère une version de production de l'application.
-  ![WhatsApp Image 2024-12-29 à 16 07 39_9c3a9c4a](https://github.com/user-attachments/assets/108050fd-59f6-4035-9b66-bd5ab200b388)
+
+    
+![WhatsApp Image 2024-12-29 à 16 07 39_9c3a9c4a](https://github.com/user-attachments/assets/108050fd-59f6-4035-9b66-bd5ab200b388)
 ![WhatsApp Image 2024-12-29 à 15 39 18_fa6b6277](https://github.com/user-attachments/assets/7884c543-2421-4ef6-990d-48fa1275b199)
 ![WhatsApp Image 2024-12-30 à 00 37 07_e2758fb5](https://github.com/user-attachments/assets/d43e6ac2-3d8f-43f8-805b-08499c2424d2)
 ![WhatsApp Image 2024-12-30 à 00 38 01_9b047feb](https://github.com/user-attachments/assets/687df2ba-5355-4194-a772-4d9195b1d8c8)
