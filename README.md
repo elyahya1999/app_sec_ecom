@@ -70,6 +70,10 @@ Le projet comprend plusieurs services indépendants qui communiquent via des API
 ![WhatsApp Image 2025-01-02 à 01 39 51_ff0d6c5f](https://github.com/user-attachments/assets/d3d5f578-4935-45f9-97db-6fa92f0411f1)
 ![WhatsApp Image 2025-01-02 à 17 22 37_b4b0788d](https://github.com/user-attachments/assets/0bfa0e6e-8ee2-4ece-b427-cd197d20a368)
 ![WhatsApp Image 2025-01-02 à 17 22 51_41ec5cf8](https://github.com/user-attachments/assets/b50cd500-71fb-4647-9245-ba99e963fc03)
+![WhatsApp Image 2025-01-16 à 20 51 15_911706ab](https://github.com/user-attachments/assets/ece281c5-1f06-4f16-b1be-fd12058a810d)
+![WhatsApp Image 2025-01-16 à 20 51 39_062f3fea](https://github.com/user-attachments/assets/898442a2-19c2-4e06-aec2-458c46fccd07)
+
+
 
 
 
