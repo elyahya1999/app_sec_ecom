@@ -27,7 +27,7 @@ public class SecurityConfig {
         return httpSecurity
                 //autoriser les requêtes HTTP sur les URL commençant par /api/** sans authentification
                 .authorizeHttpRequests(ar -> ar
-                        .requestMatchers("/h2-console/**").permitAll()
+                        .requestMatchers("/h2-console/**","/api/products/**").permitAll()
                 )
                 //.authorizeHttpRequests(ar -> ar
                         //.requestMatchers("/api/products/**").hasAuthority("ADMIN"))
